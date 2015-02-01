@@ -1,0 +1,12 @@
+/**
+ * domain: slack.com
+ */
+
+#team_menu, #user_menu {
+  background-color: #2D2D2D;
+  border-color: #202020;
+}
+
+#col_channels {
+  background-color: #363636;
+}
